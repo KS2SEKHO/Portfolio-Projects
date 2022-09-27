@@ -1,6 +1,6 @@
 # Portfolio-Projects
 
-This repository is for the projects I've done using published data from Kaggle.
+This repository is for various projects I've done using published data from Kaggle.
 
 These projects prepare me for a career as a Data Analyst / Analytics professional by utilizing:
 
