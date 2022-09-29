@@ -2,7 +2,7 @@
 
 This repository is for various projects I've completed using published data from Kaggle.
 
-These projects prepare me for a career as a Data Analyst / Analytics professional by utilizing:
+These projects prepare me for a career as a Data Analyst/Analytics professional by utilizing:
 
 - Data Wrangling
 - Data Cleaning
