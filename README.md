@@ -15,3 +15,4 @@ Technical Skills
 - Data Visualization libraries (Matplotlib, Seaborn)
 - Jupyter Notebooks
 - SQL
+- Tableau
